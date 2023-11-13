@@ -1,4 +1,4 @@
-# Ebooks Manager
+# Ebook Manager
 
 ## Description
 Ebook manager, in the context of handling ebooks, is designed to accomplish a single use case, described as follow:<br />
