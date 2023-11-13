@@ -1,0 +1,16 @@
+{
+  "name": "ebook_manager",
+  "version": "1.0.0",
+  "description": "A program for ebook files management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Palazzo",
+  "license": "ISC",
+  "dependencies": {
+    "node-unrar-js": "^2.0.0",
+    "unrar": "^0.2.0",
+    "unzipper": "^0.10.14"
+  }
+}
